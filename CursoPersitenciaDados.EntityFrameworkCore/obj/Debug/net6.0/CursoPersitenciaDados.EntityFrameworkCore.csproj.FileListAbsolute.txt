@@ -1,0 +1,12 @@
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.EntityFrameworkCore\bin\Debug\net6.0\CursoPersitenciaDados.EntityFrameworkCore.deps.json
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.EntityFrameworkCore\bin\Debug\net6.0\CursoPersitenciaDados.EntityFrameworkCore.dll
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.EntityFrameworkCore\bin\Debug\net6.0\CursoPersitenciaDados.EntityFrameworkCore.pdb
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.EntityFrameworkCore\obj\Debug\net6.0\CursoPersitenciaDados.EntityFrameworkCore.csproj.AssemblyReference.cache
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.EntityFrameworkCore\obj\Debug\net6.0\CursoPersitenciaDados.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.EntityFrameworkCore\obj\Debug\net6.0\CursoPersitenciaDados.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.EntityFrameworkCore\obj\Debug\net6.0\CursoPersitenciaDados.EntityFrameworkCore.AssemblyInfo.cs
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.EntityFrameworkCore\obj\Debug\net6.0\CursoPersitenciaDados.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.EntityFrameworkCore\obj\Debug\net6.0\CursoPersitenciaDados.EntityFrameworkCore.dll
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.EntityFrameworkCore\obj\Debug\net6.0\refint\CursoPersitenciaDados.EntityFrameworkCore.dll
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.EntityFrameworkCore\obj\Debug\net6.0\CursoPersitenciaDados.EntityFrameworkCore.pdb
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.EntityFrameworkCore\obj\Debug\net6.0\ref\CursoPersitenciaDados.EntityFrameworkCore.dll

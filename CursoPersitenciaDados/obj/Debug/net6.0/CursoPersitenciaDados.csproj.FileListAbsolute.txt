@@ -1,0 +1,15 @@
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados\bin\Debug\net6.0\CursoPersitenciaDados.exe
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados\bin\Debug\net6.0\CursoPersitenciaDados.deps.json
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados\bin\Debug\net6.0\CursoPersitenciaDados.runtimeconfig.json
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados\bin\Debug\net6.0\CursoPersitenciaDados.dll
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados\bin\Debug\net6.0\CursoPersitenciaDados.pdb
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados\obj\Debug\net6.0\CursoPersitenciaDados.csproj.AssemblyReference.cache
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados\obj\Debug\net6.0\CursoPersitenciaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados\obj\Debug\net6.0\CursoPersitenciaDados.AssemblyInfoInputs.cache
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados\obj\Debug\net6.0\CursoPersitenciaDados.AssemblyInfo.cs
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados\obj\Debug\net6.0\CursoPersitenciaDados.csproj.CoreCompileInputs.cache
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados\obj\Debug\net6.0\CursoPersitenciaDados.dll
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados\obj\Debug\net6.0\refint\CursoPersitenciaDados.dll
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados\obj\Debug\net6.0\CursoPersitenciaDados.pdb
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados\obj\Debug\net6.0\CursoPersitenciaDados.genruntimeconfig.cache
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados\obj\Debug\net6.0\ref\CursoPersitenciaDados.dll

@@ -1,0 +1,12 @@
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.Dominio\bin\Debug\net6.0\CursoPersitenciaDados.Dominio.deps.json
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.Dominio\bin\Debug\net6.0\CursoPersitenciaDados.Dominio.dll
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.Dominio\bin\Debug\net6.0\CursoPersitenciaDados.Dominio.pdb
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.Dominio\obj\Debug\net6.0\CursoPersitenciaDados.Dominio.csproj.AssemblyReference.cache
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.Dominio\obj\Debug\net6.0\CursoPersitenciaDados.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.Dominio\obj\Debug\net6.0\CursoPersitenciaDados.Dominio.AssemblyInfoInputs.cache
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.Dominio\obj\Debug\net6.0\CursoPersitenciaDados.Dominio.AssemblyInfo.cs
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.Dominio\obj\Debug\net6.0\CursoPersitenciaDados.Dominio.csproj.CoreCompileInputs.cache
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.Dominio\obj\Debug\net6.0\CursoPersitenciaDados.Dominio.dll
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.Dominio\obj\Debug\net6.0\refint\CursoPersitenciaDados.Dominio.dll
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.Dominio\obj\Debug\net6.0\CursoPersitenciaDados.Dominio.pdb
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.Dominio\obj\Debug\net6.0\ref\CursoPersitenciaDados.Dominio.dll

@@ -1,0 +1,16 @@
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.ADO\bin\Debug\net6.0\CursoPersitenciaDados.ADO.dll.config
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.ADO\bin\Debug\net6.0\CursoPersitenciaDados.ADO.deps.json
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.ADO\bin\Debug\net6.0\CursoPersitenciaDados.ADO.dll
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.ADO\bin\Debug\net6.0\CursoPersitenciaDados.ADO.pdb
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.ADO\obj\Debug\net6.0\CursoPersitenciaDados.ADO.csproj.AssemblyReference.cache
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.ADO\obj\Debug\net6.0\CursoPersitenciaDados.ADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.ADO\obj\Debug\net6.0\CursoPersitenciaDados.ADO.AssemblyInfoInputs.cache
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.ADO\obj\Debug\net6.0\CursoPersitenciaDados.ADO.AssemblyInfo.cs
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.ADO\obj\Debug\net6.0\CursoPersitenciaDados.ADO.csproj.CoreCompileInputs.cache
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.ADO\obj\Debug\net6.0\CursoPersitenciaDados.ADO.dll
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.ADO\obj\Debug\net6.0\refint\CursoPersitenciaDados.ADO.dll
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.ADO\obj\Debug\net6.0\CursoPersitenciaDados.ADO.pdb
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.ADO\obj\Debug\net6.0\ref\CursoPersitenciaDados.ADO.dll
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.ADO\bin\Debug\net6.0\CursoPersitenciaDados.Dominio.dll
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.ADO\bin\Debug\net6.0\CursoPersitenciaDados.Dominio.pdb
+C:\Projetos\Meus Projetos\CursoPersitenciaDados\CursoPersitenciaDados.ADO\obj\Debug\net6.0\CursoPersitenciaDados.ADO.csproj.CopyComplete

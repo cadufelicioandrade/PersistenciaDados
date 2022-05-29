@@ -6,14 +6,13 @@ using System.Threading.Tasks;
 
 namespace CursoPersitenciaDados.Dominio
 {
-    public class Genero
+    public class Genero : Base
     {
         public Genero()
         {
 
         }
 
-        public int Id { get; set; }
         public string NomeGenero { get; set; }
     }
 }

@@ -4,15 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CursoPersitenciaDados.Dominio
+namespace CursoPersitenciaDados.ADO
 {
-    public class Produtora : Base
+    public class FilmeAtorDAL : BaseDAL
     {
-        public Produtora()
+        public FilmeAtorDAL()
         {
 
         }
 
-        public string NomeProdutora { get; set; }
+        
+
     }
 }

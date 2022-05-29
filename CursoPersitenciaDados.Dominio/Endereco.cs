@@ -6,14 +6,13 @@ using System.Threading.Tasks;
 
 namespace CursoPersitenciaDados.Dominio
 {
-    public class Endereco
+    public class Endereco : Base
     {
         public Endereco()
         {
 
         }
 
-        public int Id { get; set; }
         public string Logradouro { get; set; }
         public string Bairro { get; set; }
         public string CEP { get; set; }

@@ -16,18 +16,18 @@ namespace CursoPersitenciaDados.ADO
 
         }
 
-        public List<Ator> GetByFilmeId(int filmeId)
+        public List<Ator> GetByFilmeId(int id)
         {
             List<Ator> ators = new List<Ator>();
 
             StringBuilder sb = new StringBuilder();
             sb.AppendFormat(@"SELECT 
-	                                ID,
+	                                Id,
 	                                NomeAtor,
 	                                SobreNome,
 	                                DtNascimento
                                 FROM Ator
-                                WHERE FilmeId = @FilmeId;", filmeId);
+                                WHERE FilmeId = @FilmeId;", id);
 
             DataTable dt = Consultar(sb);
 

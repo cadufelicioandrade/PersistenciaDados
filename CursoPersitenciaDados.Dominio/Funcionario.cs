@@ -6,14 +6,13 @@ using System.Threading.Tasks;
 
 namespace CursoPersitenciaDados.Dominio
 {
-    public class Funcionario
+    public class Funcionario : Base
     {
         public Funcionario()
         {
 
         }
 
-        public int Id { get; set; }
         public string NomeFuncionario { get; set; }
         public string RG { get; set; }
         public string CPF { get; set; }

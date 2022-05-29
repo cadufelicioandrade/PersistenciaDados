@@ -6,13 +6,8 @@ using System.Threading.Tasks;
 
 namespace CursoPersitenciaDados.Dominio
 {
-    public class Produtora : Base
+    public class Base
     {
-        public Produtora()
-        {
-
-        }
-
-        public string NomeProdutora { get; set; }
+        public int Id { get; set; }
     }
 }

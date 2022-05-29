@@ -6,13 +6,12 @@ using System.Threading.Tasks;
 
 namespace CursoPersitenciaDados.Dominio
 {
-    public class Estado
+    public class Estado : Base
     {
         public Estado()
         {
         }
 
-        public int Id { get; set; }
         public string NomeEstado { get; set; }
         public string UF { get; set; }
         public string Pais { get; set; }

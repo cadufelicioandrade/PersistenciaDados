@@ -6,14 +6,13 @@ using System.Threading.Tasks;
 
 namespace CursoPersitenciaDados.Dominio
 {
-    public class Cliente
+    public class Cliente : Base
     {
         public Cliente()
         {
 
         }
 
-        public int Id { get; set; }
         public string NomeCliente { get; set; }
         public string SobreNome { get; set; }
         public string CPF { get; set; }

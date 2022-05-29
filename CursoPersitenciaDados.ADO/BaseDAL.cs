@@ -13,7 +13,6 @@ namespace CursoPersitenciaDados.ADO
     {
         private IDbConnection conn;
 
-
         private IDbConnection GetConnection()
         {
             var strConn = ConfigurationManager.ConnectionStrings["ConnexaoDados"].ConnectionString;

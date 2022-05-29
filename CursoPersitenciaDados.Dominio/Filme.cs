@@ -30,6 +30,7 @@ namespace CursoPersitenciaDados.Dominio
 
         public List<PedidoFilme> PedidoFilme { get; set; }
         public List<FilmeAtor> FilmeAtor { get; set; }
+        public List<Ator> Ator { get; set; }
 
     }
 }

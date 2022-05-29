@@ -50,6 +50,8 @@ namespace CursoPersitenciaDados.ADO
                 
                 filme.Produtora.Id = Convert.ToInt32(row["ProdutoraId"]);
                 filme.Produtora.NomeProdutora = row["NomeProdutora"].ToString();
+                
+                filme.Ator = new List<Ator>(new FilmeAtorDAL().GetAtorByFilmeId(filme.Id));
 
                 filmes.Add(filme);
             }

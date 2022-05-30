@@ -18,8 +18,8 @@ namespace CursoPersitenciaDados.ADO
         public List<Ator> GetAtorByFilmeId(int filmeId)
         {
             var atores = new List<Ator>();
-            StringBuilder sb = new StringBuilder();
-            sb.AppendFormat(@"SELECT A.Id,
+            StringBuilder sql = new StringBuilder();
+            sql.AppendFormat(@"SELECT A.Id,
                                      A.NomeAtor,
                                      A.SobreNome,
                                      A.DtNascimento
@@ -27,7 +27,7 @@ namespace CursoPersitenciaDados.ADO
                             JOIN FilmeAtor FA ON A.Id = FA.AtorId
                             WHERE FA.FilmeId = {0}", filmeId);
 
-            DataTable dt = Consultar(sb);
+            DataTable dt = Consultar(sql);
 
             foreach (DataRow row in dt.Rows)
             {

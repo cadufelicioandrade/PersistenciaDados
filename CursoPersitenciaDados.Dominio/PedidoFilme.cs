@@ -13,7 +13,7 @@ namespace CursoPersitenciaDados.Dominio
 
         }
 
-        public decimal ValorUnidade { get; set; }
+        public double ValorUnidade { get; set; }
 
         public Pedido Pedido { get; set; }
         public int PedidoId { get; set; }

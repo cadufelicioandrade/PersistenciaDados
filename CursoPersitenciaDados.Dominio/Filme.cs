@@ -19,7 +19,7 @@ namespace CursoPersitenciaDados.Dominio
         public DateTime DtInclusao { get; set; }
         public int AnoLancamento { get; set; }
         public bool Disponivel { get; set; }
-        public decimal ValorLocacao { get; set; }
+        public double ValorLocacao { get; set; }
         public bool Ativo { get; set; }
 
         public Genero Genero { get; set; }

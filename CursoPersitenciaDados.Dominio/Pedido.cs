@@ -15,7 +15,7 @@ namespace CursoPersitenciaDados.Dominio
 
         public DateTime DtPedido { get; set; }
         public int QtdFilme { get; set; }
-        public decimal ValorTotal { get; set; }
+        public double ValorTotal { get; set; }
         public Cliente Cliente { get; set; }
         public int ClienteId { get; set; }
         public Funcionario Funcionario { get; set; }

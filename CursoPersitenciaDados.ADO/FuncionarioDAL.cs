@@ -31,7 +31,7 @@ namespace CursoPersitenciaDados.ADO
 	                        FROM Funcionario ");
 
             if (id != null)
-                sql.AppendFormat(@"WHERE Id = {0}", id);
+                sql.AppendFormat(@"WHERE Id = {0}", id.Value);
 
             DataTable dt = Consultar(sql);
 
@@ -47,11 +47,67 @@ namespace CursoPersitenciaDados.ADO
                 funcionario.Email = row["Email"].ToString();
                 funcionario.DtNascimento = Convert.ToDateTime(row["DtNascimento"]);
                 funcionario.Ativo = Convert.ToBoolean(row["Ativo"]);
-                
+
+                funcionario.Endereco = new Endereco();
+                funcionario.Endereco = new EnderecoDAL().GetEndereco(funcionarioId: funcionario.Id);
+
                 list.Add(funcionario);
             }
 
             return list;
+        }
+
+        public int InserirFuncionario(Funcionario funcionario)
+        {
+            StringBuilder sql = new StringBuilder();
+            sql.AppendFormat(@"INSERT INTO Funcionario
+                                (NomeFuncionario, SobreNome, CPF, RG, TelFixo, Email, DtNascimento)
+                                VALUES ('{0}','{1}','{2}','{3}','{4}','{5}',{6}",
+                                funcionario.NomeFuncionario,
+                                funcionario.SobreNome,
+                                funcionario.CPF,
+                                funcionario.RG,
+                                funcionario.TelFixo,
+                                funcionario.Email,
+                                funcionario.DtNascimento);
+
+            return ExecuteScalar(sql);
+        }
+
+        public bool UpdateFuncionario(Funcionario funcionario)
+        {
+            StringBuilder sql = new StringBuilder();
+            sql.AppendFormat(@"UPDATE Funcionario
+                               SET NomeFuncionario='{0}',
+                                    SobreNome='{1}',
+                                    CPF='{2}',
+                                    RG='{3}',
+                                    TelFixo='{4}',
+                                    Email='{5}',
+                                    DtNascimento={6}
+                                WHERE Id={7}",
+                                funcionario.NomeFuncionario,
+                                funcionario.SobreNome,
+                                funcionario.CPF,
+                                funcionario.RG,
+                                funcionario.TelFixo,
+                                funcionario.Email,
+                                funcionario.DtNascimento,
+                                funcionario.Id);
+
+            return ExecuteNonQuery(sql);
+        }
+
+        public bool DesativarFuncionario(Funcionario funcionario)
+        {
+            StringBuilder sql = new StringBuilder();
+            sql.AppendFormat(@"UPDATE Funcionario
+                               SET Ativo={0}
+                                WHERE Id={1}",
+                                funcionario.Ativo,
+                                funcionario.Id);
+
+            return ExecuteNonQuery(sql);
         }
     }
 }

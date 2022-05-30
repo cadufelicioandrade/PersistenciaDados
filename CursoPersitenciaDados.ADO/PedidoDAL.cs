@@ -32,11 +32,11 @@ namespace CursoPersitenciaDados.ADO
                                 WHERE ");
 
             if (funcionarioId != null && clienteId != null)
-                sql.AppendFormat(@"FuncionarioId = {0} AND ClienteId = {1}", funcionarioId, clienteId);
+                sql.AppendFormat(@"FuncionarioId = {0} AND ClienteId = {1}", funcionarioId.Value, clienteId.Value);
             else if (clienteId != null)
-                sql.AppendFormat("ClienteId = {0}", clienteId);
+                sql.AppendFormat("ClienteId = {0}", clienteId.Value);
             else if (funcionarioId != null)
-                sql.AppendFormat(@"FuncionarioId = {0}", funcionarioId);
+                sql.AppendFormat(@"FuncionarioId = {0}", funcionarioId.Value);
 
             DataTable dt = Consultar(sql);
 
@@ -70,7 +70,7 @@ namespace CursoPersitenciaDados.ADO
 
 
             if (dtPedido != null)
-                sql.AppendFormat(@"WHERE DtPedido = {0}", dtPedido);
+                sql.AppendFormat(@"WHERE DtPedido = {0}", dtPedido.Value);
 
             DataTable dt = Consultar(sql);
 

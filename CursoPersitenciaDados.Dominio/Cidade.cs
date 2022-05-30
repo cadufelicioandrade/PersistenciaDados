@@ -15,6 +15,9 @@ namespace CursoPersitenciaDados.Dominio
 
         public string NomeCidade { get; set; }
 
+        public string UF { get; set; }
+        public string Pais { get; set; }
+
         public Endereco Endereco { get; set; }
 
         public Estado Estado { get; set; }

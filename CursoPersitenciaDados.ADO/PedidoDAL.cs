@@ -93,9 +93,9 @@ namespace CursoPersitenciaDados.ADO
         public int InserirPedido(Pedido pedido)
         {
             StringBuilder sql = new StringBuilder();
-            sql.AppendFormat(@"INSERT INTO 
-                                Pedido (DtPedido, QtdFilme, ValorTotal, ClienteId, FuncionarioId
-                               VALUES ({0}, {1}, {2}, {3}, {4}", 
+            sql.AppendFormat(@"INSERT INTO Pedido 
+                                (DtPedido, QtdFilme, ValorTotal, ClienteId, FuncionarioId)
+                                VALUES ({0}, {1}, {2}, {3}, {4})", 
                                pedido.DtPedido,
                                pedido.QtdFilme,
                                pedido.ValorTotal,
@@ -124,5 +124,6 @@ namespace CursoPersitenciaDados.ADO
 
             return ExecuteNonQuery(sql);
         }
+
     }
 }
